@@ -1,0 +1,11 @@
+{
+  "name": "lander_tech",
+  "version": "1.0.0",
+  "description": "lander.tech site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-site"
+  },
+  "author": "",
+  "license": "ISC"
+}
