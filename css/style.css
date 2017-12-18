@@ -110,3 +110,6 @@ p {
   line-height: 160%;
   letter-spacing: 1px;
 }
+input, textarea {
+  background-color:Black; color:Lime;
+}
